@@ -12,9 +12,7 @@ https://drive.google.com/file/d/173caJcAJ7oT8RqtyH1YjvPpDtfU84fx1/view?usp=shari
 
 
 
-Model not trained for up close
-
-Soccer ball misclassified as a player:
+Model not trained for up close up, soccer ball misclassified as a player:
 
 <img width="1135" alt="Screenshot 2024-03-30 at 11 01 57 AM" src="https://github.com/AngelicSage/AI/assets/142240060/b393a92f-1a62-4d21-80e5-bccde60ff891">
 
