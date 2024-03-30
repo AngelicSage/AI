@@ -10,6 +10,8 @@ https://drive.google.com/file/d/173caJcAJ7oT8RqtyH1YjvPpDtfU84fx1/view?usp=shari
 <img width="572" alt="Screenshot 2024-03-30 at 11 01 20 AM" src="https://github.com/AngelicSage/AI/assets/142240060/227d4faf-9d4a-4d32-aea3-b25f4ed55901">
 
 
+
+
 Model not trained for up close
 
 Soccer ball misclassified as a player:
