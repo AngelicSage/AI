@@ -1,38 +1,50 @@
 #Insights from hyperparameter tuning and testing
 
 
+![Screenshot 2024-03-29 at 9 01 12 AM](https://github.com/AngelicSage/AI-Projects/assets/142240060/f0ec65bd-92f2-4298-b16e-7ad2d93bdb5b)
 
-![Screenshot 2024-03-28 at 10.26.10 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef6e36ba-2f23-43fc-b790-ba48c284b7c8/a9adf3fc-da43-495d-a968-8e7782d799d6/Screenshot_2024-03-28_at_10.26.10_PM.png)
+![Screenshot 2024-03-29 at 9 03 16 AM](https://github.com/AngelicSage/AI-Projects/assets/142240060/3684a936-687c-4f10-b272-089a16ed9366)
 
-![Screenshot 2024-03-28 at 10.24.00 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef6e36ba-2f23-43fc-b790-ba48c284b7c8/5db080fb-b96d-4e0c-a7cc-41b3fa297a79/Screenshot_2024-03-28_at_10.24.00_PM.png)
+![Screenshot 2024-03-29 at 9 03 44 AM](https://github.com/AngelicSage/AI-Projects/assets/142240060/ee9493a8-8350-4d30-835b-8f955fd9f022)
+
+Nothing was detected properly
+Struggles against new data because of the 1 style used
+
+
 
 Regular 50 50 thresholds
 
-![Screenshot 2024-03-28 at 10.24.09 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef6e36ba-2f23-43fc-b790-ba48c284b7c8/ccbae8eb-3cfe-4e3c-8948-e4c9dbff5f50/Screenshot_2024-03-28_at_10.24.09_PM.png)
+![Screenshot 2024-03-29 at 8 59 52 AM](https://github.com/AngelicSage/AI-Projects/assets/142240060/0f712c55-08d0-4ebd-b807-29b9c424ae7b)
 
-Overlap threshold 99 
+Overlap is the same as IoU
 
-![Screenshot 2024-03-28 at 10.31.14 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef6e36ba-2f23-43fc-b790-ba48c284b7c8/716161e3-e4a6-49d3-98f4-5dce1b3a76f7/Screenshot_2024-03-28_at_10.31.14_PM.png)
+Overlap threshold 99%
+![Screenshot 2024-03-29 at 9 01 52 AM](https://github.com/AngelicSage/AI-Projects/assets/142240060/732cb724-fff2-4c4f-89dd-06f6b6e85e84)
 
-Overlap threshold 1
+Overlap threshold 1%
+![Screenshot 2024-03-29 at 9 02 31 AM](https://github.com/AngelicSage/AI-Projects/assets/142240060/1e487edb-79d1-466a-b575-f782040a1472)
 
-![Screenshot 2024-03-28 at 10.31.26 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef6e36ba-2f23-43fc-b790-ba48c284b7c8/fb413981-b9b1-42ce-8456-a0be554ace74/Screenshot_2024-03-28_at_10.31.26_PM.png)
+
 
 Confidence 1%
+![Screenshot 2024-03-29 at 9 02 20 AM](https://github.com/AngelicSage/AI-Projects/assets/142240060/1b67056e-ad3f-4aad-a930-2c54453dbe09)
 
-![Screenshot 2024-03-28 at 10.31.46 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef6e36ba-2f23-43fc-b790-ba48c284b7c8/422e7b9b-5e17-40ac-9daf-279f5514a7e6/Screenshot_2024-03-28_at_10.31.46_PM.png)
 
 Confidence 99%
+![Screenshot 2024-03-29 at 9 02 14 AM](https://github.com/AngelicSage/AI-Projects/assets/142240060/5f0a4363-5ac8-49a7-ae01-652715280f86)
 
-![Screenshot 2024-03-28 at 10.32.24 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef6e36ba-2f23-43fc-b790-ba48c284b7c8/16549fed-d851-4d8c-bfb4-f40065b54abc/Screenshot_2024-03-28_at_10.32.24_PM.png)
+
 
 Insights:
+Bounding boxes are not perfect, how does that affect it?
+- models further trained might decide on inaccurate actions
+Confidence is not at 99, so nothing is shown
 
-- Bounding boxes are not perfect, how does that affect it?
-- Struggles against new chess styles/angles
+
+
 
 Stats
+![Screenshot 2024-03-29 at 9 04 23 AM](https://github.com/AngelicSage/AI-Projects/assets/142240060/eb711cde-817a-4015-8bc9-1684d547f5fb)
 
-![Screenshot 2024-03-28 at 10.34.31 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef6e36ba-2f23-43fc-b790-ba48c284b7c8/285bc0fa-9f8e-4c0e-902f-76a4d39c32e6/Screenshot_2024-03-28_at_10.34.31_PM.png)
+![Screenshot 2024-03-29 at 9 04 41 AM](https://github.com/AngelicSage/AI-Projects/assets/142240060/bbfbe080-7bb0-48f9-91f0-871469070b31)
 
-![Screenshot 2024-03-28 at 10.34.48 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef6e36ba-2f23-43fc-b790-ba48c284b7c8/a8383c28-5b77-4d62-a146-0e19f4deac55/Screenshot_2024-03-28_at_10.34.48_PM.png)
