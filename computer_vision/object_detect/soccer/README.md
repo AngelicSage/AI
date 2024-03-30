@@ -1,0 +1,23 @@
+#This is my soccer object detection
+
+##I used a roboflow dataset and trained my own model
+
+<img width="1147" alt="Screenshot 2024-03-30 at 10 59 16 AM (2)" src="https://github.com/AngelicSage/AI/assets/142240060/a7c8921b-1061-4a33-bfcb-a7fde37ab78a">
+
+<img width="572" alt="Screenshot 2024-03-30 at 11 01 20 AM" src="https://github.com/AngelicSage/AI/assets/142240060/227d4faf-9d4a-4d32-aea3-b25f4ed55901">
+
+
+Model not trained for up close
+
+Soccer ball misclassified as a player:
+
+<img width="1135" alt="Screenshot 2024-03-30 at 11 01 57 AM" src="https://github.com/AngelicSage/AI/assets/142240060/b393a92f-1a62-4d21-80e5-bccde60ff891">
+
+
+etc
+
+<img width="1136" alt="Screenshot 2024-03-30 at 11 02 54 AM" src="https://github.com/AngelicSage/AI/assets/142240060/04afa67f-fd35-460b-9d49-b72d55085a03">
+
+
+### Credit to the video
+https://youtu.be/uI8sZYXxMc8?si=1ggfLqyZxTEszJ2h
