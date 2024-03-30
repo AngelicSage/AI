@@ -2,6 +2,9 @@
 
 ##I used a roboflow dataset and trained my own model
 
+###You are welcome to see the object detected video here:
+https://drive.google.com/file/d/173caJcAJ7oT8RqtyH1YjvPpDtfU84fx1/view?usp=sharing 
+
 <img width="1147" alt="Screenshot 2024-03-30 at 10 59 16 AM (2)" src="https://github.com/AngelicSage/AI/assets/142240060/a7c8921b-1061-4a33-bfcb-a7fde37ab78a">
 
 <img width="572" alt="Screenshot 2024-03-30 at 11 01 20 AM" src="https://github.com/AngelicSage/AI/assets/142240060/227d4faf-9d4a-4d32-aea3-b25f4ed55901">
