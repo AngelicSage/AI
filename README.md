@@ -1,3 +1,5 @@
-#AI
+# AI
 
-These are my projects that I have completed for AI thus far
+## These are my projects that I have completed for AI thus far
+
+### Chess
