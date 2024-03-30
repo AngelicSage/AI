@@ -12,6 +12,3 @@ https://drive.google.com/file/d/173caJcAJ7oT8RqtyH1YjvPpDtfU84fx1/view?usp=shari
 
 ### Chess
 ![image](https://github.com/AngelicSage/AI/assets/142240060/83dc5bc4-13d1-4940-874e-08e8d0698fbb)
-
-
-### Anime character classification
