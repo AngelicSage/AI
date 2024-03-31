@@ -17,7 +17,7 @@
 
 ## Then I decided to take an approach with a funny dog picture
 ### crocs is included as part of the dog's body, but still acknowledged as didfferent
-![image](https://github.com/AngelicSage/AI/assets/142240060/ec8eb361-6f2e-483a-97c5-1f103e8a4570)
+![Screenshot 2024-03-31 at 9 12 27 AM](https://github.com/AngelicSage/AI/assets/142240060/38ce1f41-59df-4d7b-80d9-f16853c4e3fb)
 
 ## Final product misclassifies image as a cat
 Pointrend is most likely not trained on funny dog pictures
