@@ -16,7 +16,7 @@
 ![image](https://github.com/AngelicSage/AI/assets/142240060/0895a6ee-43c8-40bb-aef8-d393feadd59b)
 
 ## Then I decided to take an approach with a funny dog picture
-### crocs is included as part of the dog's body, but still acknowledged as didfferent
+### crocs is included as part of the dog's body, but still acknowledged as different
 ![Screenshot 2024-03-31 at 9 12 27 AM](https://github.com/AngelicSage/AI/assets/142240060/38ce1f41-59df-4d7b-80d9-f16853c4e3fb)
 
 ## Final product misclassifies image as a cat
