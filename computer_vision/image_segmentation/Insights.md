@@ -1,7 +1,7 @@
 #Insights
 # I used PointRend for this project
 ### In my approach, everything not segmented was turned gray
-![image](https://github.com/AngelicSage/AI/assets/142240060/3c1c59bc-d9f7-4469-9d91-957031fc6d50)
+![Screenshot 2024-03-31 at 9 11 47 AM](https://github.com/AngelicSage/AI/assets/142240060/eb8b85a2-f310-4349-b90e-724724f59704)
 
 ### Point sampling helps bring back the colors of the image:
 ![image](https://github.com/AngelicSage/AI/assets/142240060/5fa2566b-29ec-4c25-b406-937e91253241)
