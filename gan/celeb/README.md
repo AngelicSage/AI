@@ -3,7 +3,7 @@
 
 ### Gan 1
 
-I made a mistake, I made to only use 5k images but accidentally used 195k, so it came out the same as 2
+I made a mistake, I meant to only use 5k images but accidentally used 195k, so it came out the same as 2
 
 
 ### Gan 2
