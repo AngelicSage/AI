@@ -1,7 +1,7 @@
 # Gan 
 ## I trained different models to hypertune the parameters
 ### Gan 1
-![image](https://github.com/AngelicSage/AI/assets/142240060/11518f1f-dc54-4465-83cf-e96b11e19fa2)
+![dcgan (2)](https://github.com/AngelicSage/AI/assets/142240060/3bae9e3d-759a-4e22-886c-b4f054866f09)
 
 ### Gan 2
 
