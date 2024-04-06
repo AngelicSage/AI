@@ -1,14 +1,12 @@
 # Gan 
 ## I trained different models to hypertune the parameters
+
 ### Gan 1
 
-64x64 on 5k images 
-
-![dcgan (2)](https://github.com/AngelicSage/AI/assets/142240060/3bae9e3d-759a-4e22-886c-b4f054866f09)
+I made a mistake, I made to only use 5k images but accidentally used 195k, so it came out the same as 2
 
 
 ### Gan 2
-
 64 x 64 on 200k images
 
 ![dcgan (2)](https://github.com/AngelicSage/AI/assets/142240060/149a05c9-1d6c-471a-af5e-94eaa3d30a8b)
