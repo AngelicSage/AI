@@ -2,6 +2,9 @@
 
 ## Here are some of the projects I am most proud of 
 
+### GAN on celebrity faces
+
+![dcgan (3)](https://github.com/AngelicSage/AI/assets/142240060/80a72f76-b947-4141-99a3-9240bdbeb719)
 
 ### Soccer
 <img width="1144" alt="Screenshot 2024-03-30 at 11 17 44 AM" src="https://github.com/AngelicSage/AI/assets/142240060/387993c1-31c5-44c0-be22-2ccc515bec17">
