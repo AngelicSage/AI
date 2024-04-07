@@ -17,6 +17,12 @@ I made a mistake, I meant to only use 5k images but accidentally used 195k, so i
 
 ![dcgan (3)](https://github.com/AngelicSage/AI/assets/142240060/a7c03c4a-1fef-4aa5-acf3-e298b07ee1f8)
 
+### Gan 4
+
+256 x 256 on 200k images
+
+![dcgan](https://github.com/AngelicSage/AI/assets/142240060/f54ff81b-527e-4cd4-b940-b80a6682b76c)
+
 Thank you so much for checking my GAN!
 
 Note:
