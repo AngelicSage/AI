@@ -18,11 +18,13 @@
 ![Screenshot 2024-04-10 at 7 11 20 AM](https://github.com/AngelicSage/AI/assets/142240060/841fe877-0ba9-43ad-a7f8-4246a617a701)
 
 ## Insights
-It is so surprising how just 50 images can make such a huge difference!
+Although I only used 50 images to fine tune stable diffusion v1.5, dreamlook was able to extract the features really well
+
+Dreambooth makes it really simple, would definitely reccomend it 
 
 I am very happy with these results 
 
-Thank you for your time!
+Thank you so much for your time!
 
 
 ## Credit
