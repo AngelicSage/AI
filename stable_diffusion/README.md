@@ -1,36 +1,15 @@
 # Stable Diffusion
 
 
-## I have so far focused on the fine tuning and altering the parameters of 
-
-
-## Simple use, no altering 
-
-image
-
-here we see that stable diffusion although very powerful, cannot always perform perfectly on unusual prompts
-
-
 ## Fine tuning landscapes
 
 ### Before
 
-image
+![Screenshot 2024-04-10 at 7 11 33 AM](https://github.com/AngelicSage/AI/assets/142240060/d6f7cb20-f903-4c5b-8c41-226fe1865c16)
+ge
 
 
 ### After 
 
-image
+![Screenshot 2024-04-10 at 7 11 20 AM](https://github.com/AngelicSage/AI/assets/142240060/50c368d2-426b-47f7-ae51-c95832542173)
 
-
-## Insights
-Although I only used 50 images to fine tune stable diffusion v1.5, dreamlook was able to extract the features really well
-
-Dreambooth makes it really simple, would definitely reccomend it 
-
-
-
-## Credit
-Dataset - https://www.kaggle.com/datasets/arnaud58/landscape-pictures/data 
-
-Website used for training - https://dreamlook.ai/dreambooth 
