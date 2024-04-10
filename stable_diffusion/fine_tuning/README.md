@@ -20,6 +20,10 @@
 ## Insights
 It is so surprising how just 50 images can make such a huge difference!
 
+I am very happy with these results 
+
+Thank you for your time!
+
 
 ## Credit
 Dataset - https://www.kaggle.com/datasets/arnaud58/landscape-pictures/data 
@@ -27,6 +31,3 @@ Dataset - https://www.kaggle.com/datasets/arnaud58/landscape-pictures/data
 Website used for training - https://dreamlook.ai/dreambooth 
 
 
-I am very happy with these results 
-
-Thank you for your time!
