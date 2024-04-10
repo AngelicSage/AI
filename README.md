@@ -11,6 +11,10 @@
 You can watch the full video here:
 https://drive.google.com/file/d/173caJcAJ7oT8RqtyH1YjvPpDtfU84fx1/view?usp=sharing
 
+## Fine-tuned landscapes
+
+![Screenshot 2024-04-10 at 7 11 20 AM](https://github.com/AngelicSage/AI/assets/142240060/008d0d56-c44f-4db2-bbe7-973188319e84)
+
 ### Image seg
 ![image](https://github.com/AngelicSage/AI/assets/142240060/9039480a-1aae-4a41-a7aa-aba03a0acdba)
 
