@@ -21,9 +21,8 @@ https://drive.google.com/file/d/173caJcAJ7oT8RqtyH1YjvPpDtfU84fx1/view?usp=shari
 
 Example:
 
-User : midjourney prompt for a boy running in the snow
+![Screenshot 2024-04-14 at 10 34 54 AM](https://github.com/AngelicSage/AI/assets/142240060/c7250db0-95a6-4acd-affa-d66df0064f4e)
 
-AI : A young boy running in the snow, with a backpack, and a red scarf
 
 ### Image seg
 ![image](https://github.com/AngelicSage/AI/assets/142240060/9039480a-1aae-4a41-a7aa-aba03a0acdba)
