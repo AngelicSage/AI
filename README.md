@@ -17,9 +17,7 @@ https://drive.google.com/file/d/173caJcAJ7oT8RqtyH1YjvPpDtfU84fx1/view?usp=shari
 
 ![dcgan](https://github.com/AngelicSage/AI/assets/142240060/e22f3787-891f-4fe1-ab2a-758f149b31ea)
 
-### Fine tuned LLM
-
-Example:
+### Fine tuned LLM for midjourney prompts
 
 ![Screenshot 2024-04-14 at 10 34 54 AM](https://github.com/AngelicSage/AI/assets/142240060/c7250db0-95a6-4acd-affa-d66df0064f4e)
 
