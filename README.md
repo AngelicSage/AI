@@ -17,6 +17,14 @@ https://drive.google.com/file/d/173caJcAJ7oT8RqtyH1YjvPpDtfU84fx1/view?usp=shari
 
 ![dcgan](https://github.com/AngelicSage/AI/assets/142240060/e22f3787-891f-4fe1-ab2a-758f149b31ea)
 
+### Fine tuned LLM
+
+Example:
+
+<human>: midjourney prompt for a boy running in the snow
+
+<assistant>: A young boy running in the snow, with a backpack, and a red scarf
+
 ### Image seg
 ![image](https://github.com/AngelicSage/AI/assets/142240060/9039480a-1aae-4a41-a7aa-aba03a0acdba)
 
