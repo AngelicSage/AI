@@ -48,7 +48,7 @@ I tried many different resolutions from 64x64 to 256x256
 
 Initially, the model is turned into grayscale
 
-![image](https://github.com/AngelicSage/AI/assets/142240060/437b283a-3356-4b4a-bc40-bfde212a3d59)
+![Screenshot 2024-04-16 at 6 50 52 AM](https://github.com/AngelicSage/AI/assets/142240060/21fe3e4e-c748-49d2-98c5-afcb2a52c7eb)
 
 Refining details: Coarse prediction -> subdivision steps(1-5)
 Color is added back
