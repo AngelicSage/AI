@@ -12,7 +12,7 @@ I used Roboflow to train this model, starting with the base Ms Coco model, and t
 You can watch the full video here:
 https://drive.google.com/file/d/173caJcAJ7oT8RqtyH1YjvPpDtfU84fx1/view?usp=sharing
 
-
+<br />
 
 ### Fine-tuned Stable Diffusion
 
@@ -28,9 +28,9 @@ After:
 
 I simply had to use 50 images, and the improved so changed so much!
 
+<br />
 
-
-### GAN on celebrity faces
+### GAN (celebrity faces)
 
 Followed Tensorflow's code examples for GANs and turned that into my own with a celebrity faces dataset from Kaggle
 
@@ -42,7 +42,7 @@ I tried many different resolutions from 64x64 to 256x256
 
 50 epochs were used, more would be needed to capture all the features of humans.
 
-
+<br />
 
 ### Image segmentation
 
@@ -57,14 +57,16 @@ Color is added back
 
 Used pointrend due to their greater accuracy than mask r-cnn's
 
-
+<br />
  
-### Fine tuned LLM for midjourney prompts
+### LLM
+
+Fine tuned model with midjourney dataset
 
 ![Screenshot 2024-04-14 at 10 34 54 AM](https://github.com/AngelicSage/AI/assets/142240060/c7250db0-95a6-4acd-affa-d66df0064f4e)
 
 I used the falcon 7b(a LLM from HuggingFace 
 
-Fine tuned model with midjourney dataset
+
 
 
