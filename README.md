@@ -1,9 +1,9 @@
 # AI
 
-## Here are some of the projects I am most proud of 
+### Here are some of the projects I am most proud of 
 
 
-### Soccer Object Detection
+## Soccer Object Detection
 
 * I used Roboflow to train this model, starting with the base Ms Coco model, and tuned it for my soccer dataset.
 
@@ -13,7 +13,7 @@
 
 <br />
 
-### Fine-tuned Stable Diffusion
+## Fine-tuned Stable Diffusion
 
 * I used https://dreamlook.ai/dreambooth (a website running on AUTOMATIC1111) 
 
@@ -29,7 +29,7 @@ After:
 
 <br />
 
-### GAN (celebrity faces)
+## GAN (celebrity faces)
 
 * Followed Tensorflow's code examples for GANs and turned that into my own with a celebrity faces dataset from Kaggle
 
@@ -43,7 +43,7 @@ After:
 
 <br />
 
-### Image segmentation
+## Image segmentation
 
 * Initially, the model is turned into grayscale
 
@@ -58,7 +58,7 @@ After:
 
 <br />
  
-### LLM
+## LLM
 
 * Fine tuned model with midjourney dataset
 
